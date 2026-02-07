@@ -1,4 +1,4 @@
-<img width="1143" height="299" alt="4" src="https://github.com/user-attachments/assets/786a73b0-2cdf-4d77-b867-bf4d918556af" /># clopro-homeworks_15.3
+# clopro-homeworks_15.3
 
 # Домашнее задание к занятию «Безопасность в облачных провайдерах»  
 
