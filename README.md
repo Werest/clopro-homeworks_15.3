@@ -69,6 +69,9 @@ resource "yandex_storage_bucket" "bucket_test" {
 ### HTTPS
 <img width="1363" height="914" alt="image" src="https://github.com/user-attachments/assets/8bd6e3d9-621e-48f6-a801-e908847f4dc4" />
 
+<img width="1377" height="899" alt="image" src="https://github.com/user-attachments/assets/5ec748bb-5298-4b85-a2d1-688a3072e8b8" />
+
+
 
 --- 
 ## Задание 2*. AWS (задание со звёздочкой)
